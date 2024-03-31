@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full stack developer from Pakistan</h3>
 <img alt="coding" align="right" width="400" src="coding_gif.gif">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan2112d&label=Profile%20views&color=0e75b6&style=flat" alt="hassan2112d" /> </p>
 
 
 
