@@ -30,6 +30,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan2112d&show_icons=true&locale=en" alt="hassan2112d" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan2112d&show_icons=true&locale=en&layout=compact" alt="hassan2112d" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan2112d&" alt="hassan2112d" /></p>
