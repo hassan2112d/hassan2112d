@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassan2112d" alt="hassan2112d" /></a> </p>
+
 
 - 🌱 I’m currently learning **Artifical Intelligence**
 
