@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hassan-rajani-84bb8722a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan-rajani-84bb8722a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hassan-rajani-84bb8722a/" target="blank"><img align="center" src="	https://camo.githubusercontent.com/59243a733d40bfc…f6c6f723d267374796c653d666f722d7468652d6261646765" alt="https://www.linkedin.com/in/hassan-rajani-84bb8722a/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hassan2112d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.instagram.com/hassann_.1/" height="30" width="40" /></a>
 </p>
 
