@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hassan-rajani-84bb8722a/" target="blank"><img align="center" src="https://camo.githubusercontent.com/59243a733d40bfc…f6c6f723d267374796c653d666f722d7468652d6261646765" alt="https://www.linkedin.com/in/hassan-rajani-84bb8722a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hassan-rajani-84bb8722a/" target="blank"><img align="center" src="https://camo.githubusercontent.com/59243a733d40bfccc7b3a0abf4f9b167cb25fa22378ce39b1fa4815188cba506/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d4c696e6b6564496e266c6f676f3d6c696e6b6564696e266c6162656c3d26636f6c6f723d303037374235266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" alt="https://www.linkedin.com/in/hassan-rajani-84bb8722a/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hassan2112d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.instagram.com/hassann_.1/" height="30" width="40" /></a>
 </p>
 
